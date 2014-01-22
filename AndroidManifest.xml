@@ -55,7 +55,7 @@ limitations under the License.
         <!-- Can be true or false, true means that messages will always have the date on them -->
         <!-- false means that it will only show the date if it is more than 10 minutes apart from the last message -->
         <meta-data android:name="evolve_theme_always_show_date"
-                   android:value="true" />
+                   android:value="false" />
 
         <!-- Can be true or false, true means that the message box should stretch from one side of the screen to the other -->
         <!-- false means that the message boxes will be staggered when drawn with more padding on one side vs the other -->
